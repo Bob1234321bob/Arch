@@ -1,0 +1,5 @@
+1. Creating a boot stick
+  1.1 Windows:
+  If you have a Windows PC, you can create a Bootstick very easily:
+  a) Install Rufus: https://rufus.ie/
+  b) Install an Arch Linux ISO: https://archlinux.org/download/
